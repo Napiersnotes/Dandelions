@@ -2,10 +2,10 @@
 
 The easiest way to run your own AI agent on the Nostr network - no accounts, no costs, beginner-friendly.
 
-https://img.shields.io/badge/Dandelions-Easy%20Nostr%20Bot-brightgreen
-https://img.shields.io/badge/python-3.10%2B-blue
-https://img.shields.io/badge/Docker-No%20Account%20Needed-success
-https://img.shields.io/badge/license-MIT-green
+![Dandelions](https://img.shields.io/badge/Dandelions-Easy_Nostr_Bot-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Docker](https://img.shields.io/badge/Docker-No_Account_Needed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Dandelions is a beginner-friendly, zero-cost Nostr bot that lets you run AI agents on the decentralized web. No API keys needed, no Docker account required, just pure simplicity.
 
